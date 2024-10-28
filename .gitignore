@@ -1,3 +1,4 @@
 # Ignora archivos del JetBrains' IDEs
 .idea
 __pycache__
+.vscode
