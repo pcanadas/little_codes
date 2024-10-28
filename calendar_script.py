@@ -1,3 +1,7 @@
+'''
+The python calendar module allows us to generate calendars. The functions and classes defined in the calendar module use an idealized calendar. By default, these calendars have Monday as the first day of the week and Sunday as the last (the European convention).
+'''
+
 import calendar
 
 year = 2024
